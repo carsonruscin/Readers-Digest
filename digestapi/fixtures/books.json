@@ -1,0 +1,112 @@
+[
+    {
+      "model": "digestapi.book",
+      "pk": 1,
+      "fields": {
+        "title": "The Midnight Library",
+        "author": "Matt Haig",
+        "isbn_number": "9780525559474",
+        "cover_image": "https://images-na.ssl-images-amazon.com/images/I/91pqqDJtU5L.jpg",
+        "user": 1
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 2,
+      "fields": {
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "isbn_number": "9781250301697",
+        "cover_image": "https://images-na.ssl-images-amazon.com/images/I/91vOsfPnMpL.jpg",
+        "user": 1
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 3,
+      "fields": {
+        "title": "The Guest List",
+        "author": "Lucy Foley",
+        "isbn_number": "9780062868930",
+        "cover_image": "https://images-na.ssl-images-amazon.com/images/I/91EoU4fqXeL.jpg",
+        "user": 1
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 4,
+      "fields": {
+        "title": "The Vanishing Half",
+        "author": "Brit Bennett",
+        "isbn_number": "9780525536291",
+        "cover_image": "https://images-na.ssl-images-amazon.com/images/I/91rAsH6IW0L.jpg",
+        "user": 1
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 5,
+      "fields": {
+        "title": "The Invisible Life of Addie LaRue",
+        "author": "V.E. Schwab",
+        "isbn_number": "9780765387561",
+        "cover_image": "https://images-na.ssl-images-amazon.com/images/I/91pF2iqM9oL.jpg",
+        "user": 1
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 6,
+      "fields": {
+        "title": "The Seven Husbands of Evelyn Hugo",
+        "author": "Taylor Jenkins Reid",
+        "isbn_number": "9781501161933",
+        "cover_image": "https://images-na.ssl-images-amazon.com/images/I/81G6oBCUGQL.jpg",
+        "user": 1
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 7,
+      "fields": {
+        "title": "The Push",
+        "author": "Ashley Audrain",
+        "isbn_number": "9781984881663",
+        "cover_image": "https://images-na.ssl-images-amazon.com/images/I/915KSWOe46L.jpg",
+        "user": 1
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 8,
+      "fields": {
+        "title": "The Lost Apothecary",
+        "author": "Sarah Penner",
+        "isbn_number": "9780778311010",
+        "cover_image": "https://images-na.ssl-images-amazon.com/images/I/91fDRAxSgUL.jpg",
+        "user": 1
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 9,
+      "fields": {
+        "title": "The Four Winds",
+        "author": "Kristin Hannah",
+        "isbn_number": "9781250178602",
+        "cover_image": "https://images-na.ssl-images-amazon.com/images/I/91sQPvhiSnL.jpg",
+        "user": 1
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 10,
+      "fields": {
+        "title": "The Last Thing He Told Me",
+        "author": "Laura Dave",
+        "isbn_number": "9781501171345",
+        "cover_image": "https://images-na.ssl-images-amazon.com/images/I/91e6US0RJiL.jpg",
+        "user": 1
+      }
+    }
+  ]
